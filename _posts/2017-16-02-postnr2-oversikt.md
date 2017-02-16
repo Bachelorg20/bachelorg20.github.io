@@ -11,7 +11,7 @@ categories:
 - Generelt
 twitter_text: 'sample'
 ---
-## Medlemmane av dette prosjektet er Kim Runar(meg), Magnus og Jørgen. 
+Medlemmane av dette prosjektet er Kim Runar(meg), Magnus og Jørgen. 
 
 Spørsmålet frå fyrste post er endå ikkje bestemt. Heller ikkje om det skal skrivast på nynorsk eller bokmål,
 så faren er at det blir ei god blanding. 
