@@ -1,7 +1,7 @@
 # Site settings
 title: Bachelor project
 description: A development blog 
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
+#baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "https://bachelorg20.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
