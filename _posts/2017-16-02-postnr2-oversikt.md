@@ -11,6 +11,7 @@ categories:
 - Generelt
 twitter_text: 'sample'
 ---
+## Medlemmane av dette prosjektet er Kim Runar(meg), Magnus og Jørgen. 
 
 Spørsmålet frå fyrste post er endå ikkje bestemt. Heller ikkje om det skal skrivast på nynorsk eller bokmål,
 så faren er at det blir ei god blanding. 
@@ -25,7 +26,7 @@ Vi skal lage eit webgrensesnitt for eit selskap frå Bergen med navn Norapps. De
  
  Denne bloggen er satt opp i forbindelse prosjektet og vi kjem til å skrive om utviklinga her. 
  
- Medlemmane er Kim Runar(meg), Magnus og Jørgen. 
+
 
 
 
