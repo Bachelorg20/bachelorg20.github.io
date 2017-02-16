@@ -5,6 +5,7 @@ description: A development blog
 url: "https://bachelorg20.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
+teamname: Bachelor
 username: kimrunar
 user_description: Developer
 user_title: Group 20
