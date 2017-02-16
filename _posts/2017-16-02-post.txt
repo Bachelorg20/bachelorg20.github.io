@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Om bachelorprosjektet"
+date: 2017-02-16 16:32:44
+image: '/assets/img/'
+description: 'Hello world!'
+tags:
+- jekyll 
+- blog
+- bachelor
+categories:
+- Development
+twitter_text: 'sample'
+---
+
+The big question is as follows; should we write in english eller på norsk? Det er spørsmålet. 
+
+
+
+
+
+
