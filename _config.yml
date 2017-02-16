@@ -5,9 +5,9 @@ description: A development blog
 url: "https://bachelorg20.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Kim Runar, Jørgen and Magnus
+username: Bachelor project
+user_description: Kim Runar, Jørgen and Magnus
+user_title: Group 20
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
