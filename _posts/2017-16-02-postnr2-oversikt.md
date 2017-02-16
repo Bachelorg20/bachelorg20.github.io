@@ -3,7 +3,7 @@ layout: post
 title: "Om bachelorprosjektet"
 date: 2017-02-16 17:12:00
 image: '/assets/img/'
-description: 'Medlemmer: Kim Runar(meg), Magnus og Jørgen'
+description: 'Medlemmer: Kim Runar, Magnus og Jørgen'
 tags: 
 - blog
 - bachelor
