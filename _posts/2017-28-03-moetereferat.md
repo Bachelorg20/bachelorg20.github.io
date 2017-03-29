@@ -3,7 +3,7 @@ layout: post
 title: "Møte"
 date: 2017-03-28 13:50:00
 image: '/assets/img/'
-description: 'Møte med Norapps'
+description: 'Møte med Norapps 27.03.2017'
 tags: 
 - blog
 - bachelor
