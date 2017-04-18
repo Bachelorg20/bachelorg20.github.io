@@ -1,0 +1,23 @@
+layout: post
+title: "Overstått påske"
+date: 2017-18-04 10:30:00
+image: '/assets/img/'
+description: 'Oppsummering av aktiviteter før og i påsken'
+tags: 
+- blog
+- bachelor
+- node.js
+- react.js
+- amazon
+categories:
+- Development
+twitter_text: 'sample'
+---
+
+Database og Applikasjon
+===================
+
+Etter at vi hadde fått til en forbindelse mellom database og node.js applikasjonen begynte arbeidet på å lese seg videre opp på react og å skissere ordentlig database.
+I de siste dagene før påske begynte vi derfor med å se på tutorials på react, og å skissere en passende modell for databasen.
+Et utkast til databasen var ferdig rett før påskeferien, men vi mangler noen rettigheter til å lage de triggerene vi ønsker, og kommer mest sannsynliå måtte gjøre flere endringer på databasen etterhvert.
+I løpet av påsken var det arbeidet på node.js applikasjonen og vi har nå et godt grunnlag for arbeidet videre. Vi begynner å arbeide ute hos bedriften om ikke lenge. 
