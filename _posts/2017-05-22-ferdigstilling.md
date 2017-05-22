@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ferdigstilling"
+title: "Aktiv helg"
 date: 2017-05-22 13:50:00
 image: '/assets/img/'
 description: 'Avsluttende arbeid'
